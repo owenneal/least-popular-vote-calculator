@@ -1,6 +1,6 @@
 //-----------------------------------------
 // Popular Vote Minimizer Application
-// Author: Prof. Scott Reckinger
+// Author: Owen Neal
 // Course: CS 211 - Programming Practicuum
 // Term: Fall 2023
 // Assignment: Project 04
