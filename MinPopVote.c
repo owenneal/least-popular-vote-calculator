@@ -1,7 +1,6 @@
 //@file "MinPopVote.c"
 /*-------------------------------------------
 Program 4: Minimum popular votes to win election
-Course: CS 211, Fall 2023, UIC
 System: Advanced zyLab
 Author: Owen Neal
 ------------------------------------------- */
