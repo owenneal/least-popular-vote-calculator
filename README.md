@@ -12,7 +12,6 @@ This program calculates the minimum popular votes needed to win the U.S. Preside
 ### Compilation
 Compile the program using a C compiler. For example, using GCC:
 
-```bash
 gcc MinPopVote.c -o MinPopVote
 
 
